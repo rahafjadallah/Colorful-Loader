@@ -5,7 +5,8 @@ A colorful animated loader created using HTML5 and CSS3. This project features o
 (https://rahafjadallah.github.io/Colorful-Loader/)
 
 ## 📷 Screenshot
-()
+(<img width="1366" height="617" alt="PNG" src="https://github.com/user-attachments/assets/f05fe3c0-db73-48aa-8b4a-23d520d47870" />
+)
 
 ## ✨ Features
 - Colorful overlapping square shapes.
